@@ -14,6 +14,7 @@
  *      08-14-20 - Eric B, Fix Configuration and Set Level/Set Position
  *      09-01-20 - Eric B, Force Lifeline association
  *                 Added Schedule for daily battery check 
+ *		09-04-20 - Chance H, Fixed default ON Value 
  *
  */
 metadata {
